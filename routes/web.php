@@ -29,3 +29,6 @@ Auth::routes([
 Route::get('/logout', 'Auth\LoginController@logout')->name('logout1');
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+// 
+Route::get('/tickets', 'TicketsController@index')->name('tickets.index');
