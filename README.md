@@ -17,6 +17,9 @@
 7. Happy Coding !!
 
 ## Tutorial 2
+    |Akun yang sudah disediakan |
+    |Username = admin@admin.com |
+    |Pass = admin12345          |
 1. Kalian bisa menggunakan url `http://localhost:8000/register` atau `127.0.0.1:8000/register` untuk mengakses halaman register saat pertama kali, dan membaut akun admin agar bisa login kedalam sistem admin yang sudah disediakan.
 2. Kalian bisa menggunakan url `http://localhost:8000/login` atau `127.0.0.1:8000/login` untuk mengakses halaman login dan admin yang sudah disediakan.
 
